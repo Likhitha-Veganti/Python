@@ -1,1 +1,1 @@
-This respository is all about python progrmming language.
+This respository contains basics about Python progrmming language.
